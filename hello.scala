@@ -1,1 +1,1 @@
-println("testing editor")
+println("Testing push config setting")
